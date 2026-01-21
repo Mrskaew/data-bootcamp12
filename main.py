@@ -12,3 +12,9 @@ print(add_two(2), add_two(5))
 
 #print result
 print("result")
+
+#new function
+def add_three(num):
+   return num+3
+
+print(add_three(2), add_three(5))
